@@ -44,9 +44,6 @@
 - 📌 [AmaderHR-UAT-TestCases](https://github.com/Tauhed/AmaderHR-UAT-TestCases)  
   📋 Manual UAT test cases and checklists for AmaderHR platform
 
-- 📌 [QA-Training-Materials](https://github.com/Tauhed/QA-Training-Materials)  
-  🎓 Course content, exercises, and examples for beginner and intermediate QA training
-
 ---
 
 ## 📈 GitHub Stats
