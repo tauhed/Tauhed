@@ -42,7 +42,7 @@
   🚗 Web automation framework using Page Object Model with PyTest and Allure Report
 
 - 📌 [AmaderHR-UAT-TestCases](https://github.com/Tauhed/AmaderHR-UAT-TestCases)  
-  📋 Manual UAT test cases and checklists for AmaderHR platform
+  📋 Manual UAT test cases and checklists sample for AmaderHR platform
 
 ---
 
